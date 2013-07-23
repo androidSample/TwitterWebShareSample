@@ -2,9 +2,8 @@ package com.coevo.twitter;
 
 public class Constants {
 
-	public static final String CONSUMER_KEY = "kyHDHy1lKTWpW6TlOAnw";
-	public static final String CONSUMER_SECRET= "ohDlLY3F6MunHlunYhvHDQSfXP2SdHd02II8Pcncds";
-	public static final String twitpic_api_key = "b896b669db21f1318d7d3065ce7d522c";
+	public static final String CONSUMER_KEY = "YOUR CONSUMER_KEY";
+	public static final String CONSUMER_SECRET= "YOUR CONSUMER_SECRET";
 	public static final String REQUEST_URL = "http://api.twitter.com/oauth/request_token";
 	public static final String ACCESS_URL = "http://api.twitter.com/oauth/access_token";
 	public static final String AUTHORIZE_URL = "http://api.twitter.com/oauth/authorize";
